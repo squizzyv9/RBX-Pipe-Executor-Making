@@ -17,4 +17,9 @@ Functions.Inject();
 
 NOTE = Open NamedPipes.cs AND CHANGE luapipename FUNCTION TO YOUR DLL
 
+SEARCH YOUR PIPE WITH 
+
+https://dosya.co/egkj3tnuo6cd/Pipe_Locator.exe.html
+
+
 
