@@ -2,8 +2,11 @@
 using System.Threading;
 using System.Windows.Forms;
 
-namespace Furky
+namespace Furky 
 {
+	
+	// Copy below from here
+	
 	// Token: 0x02000011 RID: 17
 	internal class Functions
 	{
