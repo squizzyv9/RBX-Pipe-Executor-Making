@@ -13,3 +13,8 @@ NamedPipes.luapipe("your text item");
 Inject Button Code
 
 Functions.Inject();
+
+
+NOTE = Open NamedPipes.cs AND CHANGE luapipename FUNCTION TO YOUR DLL
+
+
