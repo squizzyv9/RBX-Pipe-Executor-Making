@@ -8,6 +8,10 @@ using System.Windows.Forms;
 
 namespace Furky (Your Source Name) 
 {
+	
+	//Copy below from here
+	
+	
 	// Token: 0x02000010 RID: 16
 	internal class NamedPipes
 	{
