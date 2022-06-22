@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace Furky
+namespace Furky (Your Source Name) 
 {
 	// Token: 0x02000010 RID: 16
 	internal class NamedPipes
