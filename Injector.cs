@@ -6,6 +6,9 @@ using System.Text;
 
 namespace Furky
 {
+	
+	//Copy below from here
+	
 	// Token: 0x0200000F RID: 15
 	internal class Injector
 	{
